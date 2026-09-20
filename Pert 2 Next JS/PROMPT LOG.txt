@@ -1,0 +1,25 @@
+PROMPT #1
+Buatkan struktur Next.js App Router dengan tiga halaman: Beranda, Tentang, Kontak, plus layout.tsx dengan navigation.
+
+PROMPT #2
+Tailwind sudah termasuk. Update masing-masing page dengan styling yang responsive dan bagus.
+
+PROMPT #3
+Buat UI menjadi reusable components dengan props dan styling yang lebih bagus.
+
+PROMPT #4
+Ini app/globals.css saya:
+@import "tailwindcss";
+dan konfigurasi CSS variables yang saya gunakan.
+
+PROMPT #5
+Buat visual theme website menjadi reminiscent of NieR:Automata dan responsive.
+
+PROMPT #6
+Sesuaikan theme colors menjadi NieR Automata beige, off-white, warm grays, dan dark browns.
+
+PROMPT #7
+Update code setiap component dan masing-masing halaman dengan CSS dan tema baru tersebut.
+
+PROMPT #8
+Tambahkan halaman baru untuk project dan experience (buat component timeline).
